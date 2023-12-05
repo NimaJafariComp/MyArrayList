@@ -10,20 +10,13 @@ Welcome to the MyArrayList Java Project, a dynamic and user-friendly array list 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/MyArrayList.git
-```
 
 ## Usage
 
 You can use the MyArrayList class in your Java projects by including it in your codebase. Here's a simple example:
 
 ```java
-import edu.csun.comp182.MyArrayList;
+
 
 public class Main {
     public static void main(String[] args) {
