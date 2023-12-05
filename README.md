@@ -4,7 +4,7 @@ Welcome to the MyArrayList Java Project, a dynamic and user-friendly array list 
 
 ## Table of Contents
 
-- [Installation](#installation)
+
 - [Usage](#usage)
 - [Methods](#methods)
 - [Contributing](#contributing)
