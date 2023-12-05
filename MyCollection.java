@@ -1,4 +1,4 @@
-package edu.csun.comp182;
+
 
 public interface MyCollection<E> {
     public void clear();
