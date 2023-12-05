@@ -1,4 +1,3 @@
-package edu.csun.comp182;
 
 import java.util.ArrayList;
 import java.util.Collections;
